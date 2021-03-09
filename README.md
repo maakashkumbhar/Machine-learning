@@ -1,2 +1,2 @@
 # Machine-learning
-All My wok on Machine learning 
+All My work on Machine learning 
